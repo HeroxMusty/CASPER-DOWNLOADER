@@ -6,14 +6,17 @@
 
 **The Next-Generation High-Speed Multi-Threaded Download Manager for Windows**
 
-[![Release](https://img.shields.io/github/v/release/HeroxMusty/CASPER-DOWNLOADER?style=for-the-badge&color=6C63FF&label=Official%20Release)](https://github.com/HeroxMusty/CASPER-DOWNLOADER/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20(64--bit)-0078D4?style=for-the-badge&logo=windows)](https://github.com/HeroxMusty/CASPER-DOWNLOADER/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v0.1.0%20Latest-6C63FF?style=for-the-badge&logo=windows)](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup-v0.1.0.exe)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20(64--bit)-0078D4?style=for-the-badge&logo=windows)](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup-v0.1.0.exe)
 [![Developer](https://img.shields.io/badge/Developer-SriX.lk-00C896?style=for-the-badge)](https://srix.lk)
 [![License](https://img.shields.io/badge/License-100%25%20Free%20Forever-FF6B6B?style=for-the-badge)](https://srix.lk)
 
 <br/>
 
-### 🔽 [Download Official Installer (Free)](https://github.com/HeroxMusty/CASPER-DOWNLOADER/releases/latest)
+### 🔽 [Click Here to Download Casper Installer (Free)](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup-v0.1.0.exe)
+
+**Direct Download:** 👉 [Casper-Download-Manager-Setup-v0.1.0.exe (30.4 MB)](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup-v0.1.0.exe)  
+*(Alternative Mirror: [Casper-Download-Manager-Setup.exe](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup.exe))*
 
 <br/>
 
@@ -34,7 +37,7 @@ Why choose **Casper Download Manager** over conventional download managers?
 | **Download Acceleration** | **Up to 32 Parallel Channels (Zero-Freeze Disk I/O)** 🚀 | 32 Threads (High CPU & Disk Freezes) ⚠️ | Limited throughput ⚠️ |
 | **1080p FHD & 4K Video + Audio** | **Built-in High-Definition Remuxing Engine** ✅ | Often fails on YouTube cipher updates ⚠️ | Limited video resolution ⚠️ |
 | **System Memory (RAM Usage)** | **~25 MB (Ultra-Lightweight Native)** ✅ | ~45 MB (Legacy Win32 architecture) ⚠️ | ~250 MB+ (Heavy Java Runtime overhead) ❌ |
-| **Installer Size** | **~1.89 MB (Micro-Footprint)** ✅ | ~15 MB ⚠️ | ~85 MB+ (Bundled JVM) ❌ |
+| **Installer Size** | **~29 MB (All-in-One Offline Installer)** ✅ | ~15 MB ⚠️ | ~85 MB+ (Bundled JVM) ❌ |
 | **User Interface (UI)** | **Modern Dark Cyberpunk / Gaming Aesthetic** 💎 | 1998 Windows 98 Retro Interface ❌ | Standard generic UI ⚠️ |
 | **Adware & Nag Screens** | **Zero Ads • Zero Annoying Popups** ✅ | Aggressive popups demanding license purchase ❌ | Minimal popups ✅ |
 | **Instant Auto-Resume** | **Seamless Byte-Level Recovery** ✅ | Standard resume ⚠️ | Standard resume ⚠️ |
@@ -85,7 +88,8 @@ Customize default save paths, connection thread limits, notifications, and speed
 
 ### Step 1: Download the Installer
 Download the latest official setup binary:  
-👉 **[Casper-Download-Manager-Setup.exe](https://github.com/HeroxMusty/CASPER-DOWNLOADER/releases/latest)**
+👉 **[Download Casper-Download-Manager-Setup-v0.1.0.exe](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup-v0.1.0.exe)** (30.4 MB, Windows 10/11 64-bit)  
+*(Direct Mirror Link: [Casper-Download-Manager-Setup.exe](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup.exe))*
 
 ### Step 2: Run Setup
 1. Double-click `Casper-Download-Manager-Setup.exe`.
