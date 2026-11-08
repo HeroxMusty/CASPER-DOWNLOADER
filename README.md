@@ -15,8 +15,7 @@
 
 ### 🔽 [Click Here to Download Casper Installer (Free)](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup-v0.1.0.exe)
 
-**Direct Download:** 👉 [Casper-Download-Manager-Setup-v0.1.0.exe (30.4 MB)](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup-v0.1.0.exe)  
-*(Alternative Mirror: [Casper-Download-Manager-Setup.exe](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup.exe))*
+**Direct Download:** 👉 [Casper-Download-Manager-Setup-v0.1.0.exe (30.4 MB)](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup-v0.1.0.exe)
 
 <br/>
 
@@ -89,10 +88,10 @@ Customize default save paths, connection thread limits, notifications, and speed
 ### Step 1: Download the Installer
 Download the latest official setup binary:  
 👉 **[Download Casper-Download-Manager-Setup-v0.1.0.exe](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup-v0.1.0.exe)** (30.4 MB, Windows 10/11 64-bit)  
-*(Direct Mirror Link: [Casper-Download-Manager-Setup.exe](https://github.com/HeroxMusty/CASPER-DOWNLOADER/raw/main/Casper-Download-Manager-Setup.exe))*
+
 
 ### Step 2: Run Setup
-1. Double-click `Casper-Download-Manager-Setup.exe`.
+1. Double-click `Casper-Download-Manager-Setup-v0.1.0.exe`.
 2. Accept the **Terms of Service & Rules** on the setup wizard.
 3. Choose your installation directory and click **Install**.
 
